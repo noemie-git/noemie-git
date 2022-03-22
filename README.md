@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noemie</h1>
-<h3 align="center">A new graduate from Le Wagon Berlin (#batch 734)</h3>
+<h3 align="center">Graduate from Le Wagon Berlin (#batch 734)</h3>
 
 - 🌱 I’m currently learning **Javascript, React & Redux**
 
