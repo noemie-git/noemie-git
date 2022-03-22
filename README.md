@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noemie</h1>
 <h3 align="center">A new graduate from Le Wagon Berlin (#batch 734)</h3>
 
-- 🌱 I’m currently learning **Javascript, Ruby on Rails and MVC pattern**
+- 🌱 I’m currently learning **Javascript, React & Redux**
 
 - 📫 How to reach me **noemie_brancourt@hotmail.com**
 
